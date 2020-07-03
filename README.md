@@ -1,2 +1,2 @@
-# TPTPWorld
-Research artifacts related to the TPTP World
+# TPTP Problem Library
+Research artifacts related to the TPTP Problem Library
